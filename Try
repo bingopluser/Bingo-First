@@ -7,7 +7,7 @@ int main(void)
     printf("Please enter a number and a character.\n);
     scanf("%d %c", &num, ch);
     printf("So you the number is %d, ", num);
-    printf("and the character is %c, ch):
+    printf("and the character is %c." ch): //This is the place I changed
     
     return 0;
 }
